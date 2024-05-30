@@ -1,0 +1,10 @@
+*{
+  color: white !important;
+}
+.dropdown-item{
+  color: black !important;
+}
+.resize-none{
+  resize: none;
+
+}
