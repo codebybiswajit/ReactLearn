@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//codebybiswajit.github.io/Text-Utils/static/css/main.7e288924.css",
-    "main.js": "//codebybiswajit.github.io/Text-Utils/static/js/main.c48bdcc2.js",
-    "static/js/453.5d6f18dd.chunk.js": "//codebybiswajit.github.io/Text-Utils/static/js/453.5d6f18dd.chunk.js",
-    "static/media/utilitylogobanner.png": "//codebybiswajit.github.io/Text-Utils/static/media/utilitylogobanner.f97006268e906c254c2d.png",
-    "index.html": "//codebybiswajit.github.io/Text-Utils/index.html",
-    "main.7e288924.css.map": "//codebybiswajit.github.io/Text-Utils/static/css/main.7e288924.css.map",
-    "main.c48bdcc2.js.map": "//codebybiswajit.github.io/Text-Utils/static/js/main.c48bdcc2.js.map",
-    "453.5d6f18dd.chunk.js.map": "//codebybiswajit.github.io/Text-Utils/static/js/453.5d6f18dd.chunk.js.map"
+    "main.css": "/Text-Utils/static/css/main.7e288924.css",
+    "main.js": "/Text-Utils/static/js/main.087a65bd.js",
+    "static/js/453.5d6f18dd.chunk.js": "/Text-Utils/static/js/453.5d6f18dd.chunk.js",
+    "static/media/utilitylogobanner.png": "/Text-Utils/static/media/utilitylogobanner.f97006268e906c254c2d.png",
+    "index.html": "/Text-Utils/index.html",
+    "main.7e288924.css.map": "/Text-Utils/static/css/main.7e288924.css.map",
+    "main.087a65bd.js.map": "/Text-Utils/static/js/main.087a65bd.js.map",
+    "453.5d6f18dd.chunk.js.map": "/Text-Utils/static/js/453.5d6f18dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e288924.css",
-    "static/js/main.c48bdcc2.js"
+    "static/js/main.087a65bd.js"
   ]
 }
